@@ -1,0 +1,3 @@
+
+Easy Acess To Datasets (Simple download and run): https://drive.google.com/drive/folders/1TVWzf29E9BD0Y8DMFIUeaw07p4lIadv2?usp=drive_link
+Orignal Source(manually download each and run) : https://data.jrc.ec.europa.eu/dataset/f6ab493b-9381-4b39-98f9-b6ac1ade73ca
